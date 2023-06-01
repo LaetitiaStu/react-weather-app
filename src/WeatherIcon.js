@@ -13,10 +13,8 @@ export default function WeatherIcon(props) {
     "09n": "RAIN",
     "10d": "RAIN",
     "10n": "RAIN",
-    "01n": "SLEET",
     "13d": "SNOW",
     "13n": "SNOW",
-    "01n": "WIND",
     "50d": "FOG",
     "50n": "FOG",
   };
