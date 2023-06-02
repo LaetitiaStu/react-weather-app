@@ -67,3 +67,9 @@
   border-color: #4d3770;
   color: #4d3770;
 }
+
+.Weather .form-control:focus {
+  border-color: #4d3770;
+  color: #4d3770;
+  box-shadow: 0 0 0 0.2rem rgba(77, 55, 112, 0.3);
+}
